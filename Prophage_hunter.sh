@@ -1,0 +1,10 @@
+bash /software_users/caojiabao/Migration_version/all_script/prophage_hunter_step1_4
+bash /software_users/caojiabao/Migration_version/all_script/Step2
+bash /software_users/caojiabao/Migration_version/all_script/Step3
+bash /software_users/caojiabao/Migration_version/all_script/Step4
+bash /software_users/caojiabao/Migration_version/all_script/Step5
+bash /software_users/caojiabao/Migration_version/all_script/prophage_hunter_step6
+bash /software_users/caojiabao/Migration_version/all_script/prophage_hunter_step7
+bash /software_users/caojiabao/Migration_version/all_script/prophage_hunter_step9
+wait
+bash /software_users/caojiabao/Migration_version/all_script/prophage_hunter_step8
